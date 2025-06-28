@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/followers/ravi-sakhiya" alt="ravi-sakhiya" /> 
 </p><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=Frontend+Engineer+with+5%2B+years+experience;Specialist+in+React+%26+Next.js;Building+high-performance+UIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Expert+(6%2B+Years);React+%7C+Next.js+%7C+Tailwind+%7C+Node.js;Fullstack+MERN+Engineer;Building+from+UI%2FUX+to+API+%26+DevOps)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
