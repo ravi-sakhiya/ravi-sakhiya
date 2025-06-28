@@ -36,7 +36,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-282C34?logo=express)
 ![REST API](https://img.shields.io/badge/REST_API-282C34)
-![Firebase](https://img.shields.io/badge/Firebase-282C34?logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1)
 
 **Tools & Workflow:**
 ![Git](https://img.shields.io/badge/Git-282C34?logo=git)
@@ -44,8 +45,9 @@
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-282C34?logo=gitlab)
 ![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma)
-![Jira](https://img.shields.io/badge/Jira-282C34?logo=jira)
-![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-282C34?logo=visualstudiocode&logoColor=007ACC)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-282C34?logo=digitalocean&logoColor=0080FF)
+![Cursor](https://img.shields.io/badge/Cursor.sh-282C34?logo=cursor&logoColor=5E5DF0)
 
 <br>
 
@@ -86,11 +88,21 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ravi-sakhiya/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+    <a href="https://www.linkedin.com/in/ravi-sakhiya/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+    </a>
     &nbsp;
-    <a href="mailto:mr.sakhiya.01@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" /></a>
+    <a href="mailto:mr.sakhiya.01@gmail.com">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" />
+    </a>
     &nbsp;
-    <a href="https://github.com/ravi-sakhiya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" /></a>
+    <a href="https://github.com/ravi-sakhiya" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />
+    </a>
+    &nbsp;
+    <a href="https://wa.me/917600557884" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" />
+    </a>
 </p>
 
 ---
