@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🌟 Frontend Developer with **5+ years of experience** crafting modern, scalable, responsive UIs.
+- 🌟 Frontend Developer with **6+ years of experience** crafting modern, scalable, responsive UIs.
 - ⚛️ Specialized in **React.js, Next.js, Tailwind CSS**, integrating robust backends with Node & Express.
 - ✨ Passionate about clean design, pixel-perfect layouts, and seamless UX.
 - 💼 Comfortable leading projects end-to-end — from Figma concepts to production CI/CD.
