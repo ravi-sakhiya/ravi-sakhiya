@@ -93,7 +93,7 @@
     </a>
     &nbsp;
     <a href="mailto:mr.sakhiya.01@gmail.com">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" />
+        <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" height="30" />
     </a>
     &nbsp;
     <a href="https://github.com/ravi-sakhiya" target="_blank">
