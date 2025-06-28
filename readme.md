@@ -32,6 +32,11 @@
 ![Redux](https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC)
 ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD)
+![GSAP](https://img.shields.io/badge/GSAP-282C34?logo=greensock&logoColor=88CE02)
+![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=000000)
 
 **Backend & APIs:**
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
