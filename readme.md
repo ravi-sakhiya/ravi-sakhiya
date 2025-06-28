@@ -17,6 +17,7 @@
 - 💼 Comfortable leading projects end-to-end — from Figma concepts to production CI/CD.
 - 📊 Built ERP, CRM, eCommerce, SaaS dashboards for global clients in healthcare, betting, and IT.
 - 📚 Always learning new frameworks and optimizing workflows for speed & quality.
+- 💬 Keep me in your touch : mr.sakhiya.01@gmail.com
 
 <br>
 
